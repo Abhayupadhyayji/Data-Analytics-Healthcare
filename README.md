@@ -1,2 +1,2 @@
-# Data-Analytics-Healthcare
-I developed a comprehensive project in Excel , creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning and  visualization.
+# Apollo-healthcare-powerbi
+"This repository includes Power BI reports for Apollo Healthcare Hospital, covering patient care, OPD/IPD trends, staff utilization, billing & revenue, and operational efficiency metrics. The dashboards are designed to provide data-driven insights for better decision-making."
